@@ -4,7 +4,7 @@ A comprehensive Model Context Protocol (MCP) server for Sui blockchain interacti
 
 ## Features
 
-### 🔐 Wallet Management
+### 🔐 Wallet Management 
 - Create new wallets with mnemonic phrases
 - Import wallets from mnemonic or private key
 - List all wallets
